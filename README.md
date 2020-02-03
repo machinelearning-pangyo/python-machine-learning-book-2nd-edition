@@ -18,7 +18,7 @@
 | 6  | 모델 평가와 하이퍼파라미터 튜닝의 모범 사례     | 서진혁 | 2020.01.20(월) | [markdown][ch06markdown]                           |      |
 | 7  | 다양한 모델을 결합한 앙상블 학습             | 박수민 | 2020.02.03(월) |                                                    |      |
 | 8  | 감성 분석에 머신 러닝 적용                 | 박종민 | 2020.02.03(월) | [pdf][ch08pdf], [ppt][ch08ppt], [colab][ch08colab] |      |
-| 9  | 웹 어플리케이션에 머신 러닝 모델 내장         | 정우일 | 2020.02.03(월) | [ipynb][ch09ipynb], [App][ch09App]                 |      |
+| 9  | 웹 애플리케이션에 머신 러닝 모델 내장         | 정우일 | 2020.02.03(월) | [ipynb][ch09ipynb], [app][ch09app]                 |      |
 | 10 | 회귀 분석으로 연속적 타킷 변수 예측          | 조희주 |                |                                                    |      |
 | 11 | 레이블되지 않은 데이터 다루기: 군집 분석      |       |                |                                                    |      |
 | 12 | 다층 인공 신경망을 밑바닥부터 구현           |      |                |                                                    |      |
@@ -51,7 +51,7 @@
 
 [ch09ipynb]: https://github.com/machinelearning-pangyo/python-machine-learning-book-2nd-edition/blob/master/Ch09_%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%20%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%20%EB%AA%A8%EB%8D%B8%20%EB%82%B4%EC%9E%A5/Chapter%2009.ipynb
 
-[ch09App]:http://wooil.pythonanywhere.com/
+[ch09app]:http://wooil.pythonanywhere.com/
 
 
 ## Resource
