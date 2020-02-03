@@ -16,7 +16,7 @@
 | 4  | 좋은 훈련 세트 만들기: 데이터 전처리         | 박동민 | 2020.01.13(월)  | [pdf][ch04pdf], [colab][ch04colab]                 |      |
 | 5  | 차원 축소를 사용한 데이터 압축              | 김태진 | 2020.01.20(월) |                                                    |      |
 | 6  | 모델 평가와 하이퍼파라미터 튜닝의 모범 사례     | 서진혁 | 2020.01.20(월) | [markdown][ch06markdown]                           |      |
-| 7  | 다양한 모델을 결합한 앙상블 학습             | 박수민 | 2020.02.03(월) |                                                    |      |
+| 7  | 다양한 모델을 결합한 앙상블 학습             | 박수민 | 2020.02.03(월) |[ipynb](https://github.com/machinelearning-pangyo/python-machine-learning-book-2nd-edition/blob/master/Ch07_%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EA%B2%B0%ED%95%A9%ED%95%9C%20%EC%95%99%EC%83%81%EB%B8%94%20%ED%95%99%EC%8A%B5/ch07%20Ensemble_psm.ipynb)                                                    |      |
 | 8  | 감성 분석에 머신 러닝 적용                 | 박종민 | 2020.02.03(월) | [pdf][ch08pdf], [ppt][ch08ppt], [colab][ch08colab] |      |
 | 9  | 웹 애플리케이션에 머신 러닝 모델 내장         | 정우일 | 2020.02.03(월) | [ipynb][ch09ipynb], [app][ch09app]                 |      |
 | 10 | 회귀 분석으로 연속적 타킷 변수 예측          | 조희주 |                |                                                    |      |
